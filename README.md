@@ -18,7 +18,7 @@ The following analyses and visualizations aim to explore significant patterns an
   - A few times a week
   - Every Few Weeks
   - Less often
-![Project Screenshot](image/SocialNetwork.png)
+![Project Screenshot](../image/SocialNetwork.png)
 
 ### 2. Impact of Internet Access During COVID-19
 - Investigates perceptions on how lack of internet access affected:
