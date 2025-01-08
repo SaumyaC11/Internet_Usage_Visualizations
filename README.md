@@ -18,7 +18,6 @@ The following analyses and visualizations aim to explore significant patterns an
   - A few times a week
   - Every Few Weeks
   - Less often
-![Project Screenshot](../image/SocialNetwork.png)
 
 ### 2. Impact of Internet Access During COVID-19
 - Investigates perceptions on how lack of internet access affected:
@@ -27,12 +26,10 @@ The following analyses and visualizations aim to explore significant patterns an
   - Job hunting
   - Education
   - Health check-ups
-![Project Screenshot](image/NothaveInternet.png)
 
 ### 3. Income, Age, and Audiobook Consumption
 - Studies the relationship between income, age, and lifetime audiobook consumption.
 - Looks for trends in audiobook usage across different income levels and age groups.
-![Project Screenshot](image/Audiobooks.png)
 
 ### 4. Internet Access and Educational Attainment
 - Examines trends between internet access and levels of education.
